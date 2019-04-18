@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * ClassName tree.MinimumDepthOfBinaryTree<br>
+ * ClassName tree.MinimumDepthOfBinaryTree01<br>
  * Function <br>
  * <p>
  * Given a binary tree, find its minimum depth.The minimum depth is the number of nodes along the shortest path from
@@ -18,7 +18,7 @@ import java.util.Queue;
  * @version 1.0.0
  * @date 2019/4/18 17:08
  */
-public class MinimumDepthOfBinaryTree {
+public class MinimumDepthOfBinaryTree01 {
     public int run(TreeNode root) {
         if (root == null) {
             return 0;
