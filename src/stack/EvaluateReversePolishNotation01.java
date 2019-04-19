@@ -8,12 +8,13 @@ import java.util.Stack;
  * Evaluate the value of an arithmetic expression in Reverse Polish Notation.
  * Valid operators are+,-,*,/. Each operand may be an integer or another expression.
  * Some examples:
+ * 在反向波兰语符号中计算算术表达式的值. 有效运算符为 +,-, *,/。每个操作数可以是一个整数或另一
+ * 个表达式。一些例子:
  * ["2", "1", "+", "3", "*"] -> ((2 + 1) * 3) -> 9
  * ["4", "13", "5", "/", "+"] -> (4 + (13 / 5)) -> 6
  * </p>
  * <p>
- * 用反波兰表示法计算算术表达式的值。
- * 有效的操作是+,-,*,/。每个操作数可以是一个整数或另一个表达式。
+ *
  * </p>
  *
  * @author 辛江勇
