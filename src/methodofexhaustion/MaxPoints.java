@@ -1,4 +1,4 @@
-package other;
+package methodofexhaustion;
 
 /**
  * ClassName MaxPoints<br>

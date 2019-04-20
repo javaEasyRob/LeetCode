@@ -9,3 +9,13 @@
 <ol>
     <li>evaluate reverse polish notation(求反波兰式表示法)</li>
 </ol>
+
+## link
+<ol>
+    <li>sort list(排序链表)</li>
+</ol>
+
+## method of exhaustion 
+<ol>
+    <li>max points(最多的点)</li>
+</ol>
