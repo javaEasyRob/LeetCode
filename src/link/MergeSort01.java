@@ -11,7 +11,7 @@ package link;
  * @version 1.0.0
  * @date 2019/4/20 23:13
  */
-public class SortList {
+public class MergeSort01 {
     public ListNode sortList(ListNode head) {
         if (head == null || head.next == null) {
             return head;
@@ -58,7 +58,6 @@ public class SortList {
         return preHead.next;
     }
 }
-
 class ListNode {
     int val;
     ListNode next;

@@ -12,7 +12,8 @@
 
 ## link
 <ol>
-    <li>sort list(排序链表)</li>
+    <li>sort list(排序链表-归并排序)</li>
+    <li>sort list(排序链表-插入排序)</li>
 </ol>
 
 ## method of exhaustion 
