@@ -2,7 +2,7 @@ package link;
 
 
 /**
- * ClassName InsertSort<br>
+ * ClassName InsertSort02<br>
  * Function <br>
  * <p>
  *     Sort a linked list using insertion sort.
@@ -11,7 +11,7 @@ package link;
  * @version 1.0.0
  * @date 2019/4/21 21:31
  */
-public class InsertSort {
+public class InsertSort02 {
     public ListNode insertionSortList(ListNode head) {
         //创立哑结点
         ListNode  dummy = new ListNode(0);

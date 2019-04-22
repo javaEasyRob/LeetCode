@@ -12,11 +12,17 @@
 
 ## link
 <ol>
-    <li>sort list(排序链表-归并排序)</li>
-    <li>sort list(排序链表-插入排序)</li>
+    <li>sort list</li>
+    <li>sort list</li>
+    <li>add two numbers</li>
 </ol>
 
 ## method of exhaustion 
 <ol>
-    <li>max points(最多的点)</li>
+    <li>max points</li>
+</ol>
+
+## array
+<ol>
+    <li>two sum</li>
 </ol>
