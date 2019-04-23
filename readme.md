@@ -2,27 +2,29 @@
 
 ## Tree
 <ol>
-    <li>minimum depth of binary tree(二叉树的最小深度)</li>
+    <li>minimum depth of binary tree</li>
 </ol>
 
 ## stack
 <ol>
-    <li>evaluate reverse polish notation(求反波兰式表示法)</li>
+    <li>Evaluate Reverse Polish Notation(求反波兰式表示法)</li>
 </ol>
 
 ## link
 <ol>
-    <li>sort list</li>
-    <li>sort list</li>
-    <li>add two numbers</li>
+    <li>Sort List</li>
+    <li>Sort List</li>
+    <li>Add Two Numbers</li>
 </ol>
 
 ## method of exhaustion 
 <ol>
-    <li>max points</li>
+    <li>Max Points</li>
 </ol>
 
 ## array
 <ol>
-    <li>two sum</li>
+    <li>Two Sum</li>
+    <li>Longest Substring Without Repeating Characters</li>
+    <li>Median of Two Sorted Arrays</li>
 </ol>
