@@ -5,19 +5,19 @@
     <li>minimum depth of binary tree</li>
 </ol>
 
-## stack
+## Stack
 <ol>
     <li>Evaluate Reverse Polish Notation(求反波兰式表示法)</li>
 </ol>
 
-## link
+## Link
 <ol>
     <li>Sort List</li>
     <li>Sort List</li>
     <li>Add Two Numbers</li>
 </ol>
 
-## method of exhaustion 
+## Method Of Exhaustion 
 <ol>
     <li>Max Points</li>
 </ol>
@@ -27,4 +27,10 @@
     <li>Two Sum</li>
     <li>Longest Substring Without Repeating Characters</li>
     <li>Median of Two Sorted Arrays</li>
+</ol>
+
+
+## Dynamic Programming 
+<ol>
+    <li>Longest Palindromic(回文) Substring</li>
 </ol>
