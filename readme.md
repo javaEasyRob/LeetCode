@@ -29,8 +29,17 @@
     <li>Median of Two Sorted Arrays</li>
 </ol>
 
-
 ## Dynamic Programming 
 <ol>
     <li>Longest Palindromic(回文) Substring</li>
+</ol>
+
+## Math
+<ol>
+    <li>Reverse Integer</li>
+</ol>
+
+## String
+<ol>
+    <li>ZigZag Conversion</li>
 </ol>

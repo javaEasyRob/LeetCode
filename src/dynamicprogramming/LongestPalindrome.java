@@ -3,6 +3,10 @@ package dynamicprogramming;
 /**
  * ClassName LongestPalindrome<br>
  * Function <br>
+ * <p>
+ * Given a string s, find the longest palindromic substring in s.
+ * You may assume that the maximum length of s is 1000.
+ * </p>
  *
  * @author 辛江勇
  * @version 1.0.0
