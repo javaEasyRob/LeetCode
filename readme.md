@@ -42,4 +42,5 @@
 ## String
 <ol>
     <li>ZigZag Conversion</li>
+    <li>String To Integer(atoi)</li>
 </ol>
