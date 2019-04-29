@@ -45,4 +45,5 @@
     <li>ZigZag Conversion</li>
     <li>String To Integer(atoi)</li>
     <li>Regular Expression Matching</li>
+    <li>Roman to Integer</li>
 </ol>
