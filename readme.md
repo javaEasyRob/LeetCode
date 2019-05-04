@@ -47,5 +47,3 @@
     <li>Regular Expression Matching</li>
     <li>Roman to Integer</li>
 </ol>
-
-<span>五一放假，回家修整。</span>
