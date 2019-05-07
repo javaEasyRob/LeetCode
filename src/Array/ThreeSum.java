@@ -21,7 +21,7 @@ import java.util.List;
  * @date 2019/5/6 23:36
  */
 public class ThreeSum {
-    public List<List<Integer>> threeSum(int[] nums) {
+    public static List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums);
         List<List<Integer>> ret = new ArrayList<>();
         for (int i = 0; i < nums.length - 2; ++i) {
@@ -29,12 +29,18 @@ public class ThreeSum {
             int target = -nums[i];
             int l = i + 1, r = nums.length - 1;
             while (l < r) {
-                if (nums[l] + nums[r] > target) r--;
-                else if (nums[l] + nums[r] < target) l++;
-                else {
+                if (nums[l] + nums[r] > target) {
+                    r--;
+                } else if (nums[l] + nums[r] < target) {
+                    l++;
+                } else {
                     ret.add(Arrays.asList(nums[i], nums[l++], nums[r--]));
-                    while (l < r && nums[l] == nums[l - 1]) l++;
-                    while (l < r && nums[r] == nums[r + 1]) r--;
+                    while (l < r && nums[l] == nums[l - 1]) {
+                        l++;
+                    }
+                    while (l < r && nums[r] == nums[r + 1]) {
+                        r--;
+                    }
                 }
             }
         }
