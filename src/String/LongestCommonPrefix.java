@@ -15,7 +15,6 @@ package String;
  * @date 2019/5/5 23:28
  */
 public class LongestCommonPrefix {
-    class Solution {
         public String longestCommonPrefix(String[] strs) {
             if (strs.length == 0) return "";
             String prefix = strs[0];
@@ -26,5 +25,4 @@ public class LongestCommonPrefix {
                 }
             return prefix;
         }
-    }
 }
