@@ -8,6 +8,7 @@
 ## Stack
 <ol>
     <li>Evaluate Reverse Polish Notation(求反波兰式表示法)</li>
+    <li>Valid Parentheses</li>
 </ol>
 
 ## Link

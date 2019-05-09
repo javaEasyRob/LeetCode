@@ -24,6 +24,7 @@ public class RemoveNthNodeFromEndOfList {
             slow = slow.next;
         }
         slow.next = slow.next.next;
+        System.out.println();
         return dummy.next;
     }
 }
