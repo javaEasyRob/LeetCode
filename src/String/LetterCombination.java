@@ -30,7 +30,7 @@ public class LetterCombination {
         put("9", "wxyz");
     }};
 
-    private List<String> output = new ArrayList<String>();
+    private List<String> output = new ArrayList<>();
 
     public List<String> letterCombinations(String digits) {
         if(digits.length() !=  0){
@@ -49,5 +49,9 @@ public class LetterCombination {
                 combination(digits+letter,other.substring(1));
             }
         }
+    }
+
+    public static void main(String[] args) {
+        System.out.println(3*0.1);
     }
 }

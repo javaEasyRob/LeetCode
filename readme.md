@@ -17,6 +17,7 @@
     <li>Sort List</li>
     <li>Add Two Numbers</li>
     <li>Remove Nth Node From End of List</li>
+    <li>Merge Two Sorted Lists</li>
 </ol>
 
 ## Method Of Exhaustion 
