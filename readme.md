@@ -44,6 +44,11 @@
     <li>Reverse Integer</li>
 </ol>
 
+## Back Tracking
+<ol>
+    <li>Generate Parentheses</li>
+</ol>
+
 ## String
 <ol>
     <li>ZigZag Conversion</li>
