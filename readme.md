@@ -32,6 +32,7 @@
     <li>Median of Two Sorted Arrays</li>
     <li>Container With Most Water</li>
     <li>3Sum</li>
+    <li>Remove Duplicates from Sorted Array</li>
 </ol>
 
 ## Dynamic Programming 
