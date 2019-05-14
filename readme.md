@@ -58,4 +58,5 @@
     <li>Roman to Integer</li>
     <li>Longest Common Prefix</li>
     <li>Letter Combinations of a Phone Number</li>
+    <li>Implement IndexOf()</li>
 </ol>
