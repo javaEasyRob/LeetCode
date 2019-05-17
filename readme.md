@@ -33,6 +33,7 @@
     <li>Container With Most Water</li>
     <li>3Sum</li>
     <li>Remove Duplicates from Sorted Array</li>
+    <li>Search in Rotated Sorted Array</li>
 </ol>
 
 ## Dynamic Programming 
