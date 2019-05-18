@@ -25,7 +25,7 @@
     <li>Max Points</li>
 </ol>
 
-## array
+## Array
 <ol>
     <li>Two Sum</li>
     <li>Longest Substring Without Repeating Characters</li>
