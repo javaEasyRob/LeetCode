@@ -25,7 +25,7 @@
     <li>Max Points</li>
 </ol>
 
-## array
+## Array
 <ol>
     <li>Two Sum</li>
     <li>Longest Substring Without Repeating Characters</li>
@@ -34,6 +34,7 @@
     <li>3Sum</li>
     <li>Remove Duplicates from Sorted Array</li>
     <li>Search in Rotated Sorted Array</li>
+    <li>Find First and Last Position of Element in Sorted Array</li>
 </ol>
 
 ## Dynamic Programming 
