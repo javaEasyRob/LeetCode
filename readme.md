@@ -1,3 +1,4 @@
+请假一天，脖子落枕了。
 # LeetCode Using Java
 
 ## Tree
