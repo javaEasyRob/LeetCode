@@ -1,4 +1,4 @@
-生病，qing'jia'san'ti
+生病，请假三天
 # LeetCode Using Java
 
 ## Tree
