@@ -1,4 +1,4 @@
-请假一天，脖子落枕了。
+生病，qing'jia'san'ti
 # LeetCode Using Java
 
 ## Tree
