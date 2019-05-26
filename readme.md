@@ -1,4 +1,4 @@
-生病，请假三天
+生病，请假第二天
 # LeetCode Using Java
 
 ## Tree
