@@ -51,6 +51,7 @@
 ## Back Tracking
 <ol>
     <li>Generate Parentheses</li>
+    <li>Permutations</li>
 </ol>
 
 ## String
